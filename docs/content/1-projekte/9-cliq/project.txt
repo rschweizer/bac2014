@@ -1,0 +1,32 @@
+Title: CLIQ - Freizeit ohne "Vielleicht"
+
+----
+
+Author: Matthias Martin
+
+----
+
+Text: 
+
+<p style="color: #323333;">Der Sommer zeigt sich von seiner besten Seite: die Sonne scheint, die Vögel zwitschern und leichter Wind weht durch die Bäume. Der perfekte Tag um mit seinen Freunden etwas zu unternehmen. Ein Blick auf das Smartphone verrät, dass es inzwischen schon fast 14 Uhr ist und das Wetter auch die kommenden Stunden noch perfekt bleibt um an den See fahren zu können. Dabei hat man vor einer Stunde in der WhatsApp-Gruppe des Freundeskreises doch nachgefragt wer Lust hat was zu unternehmen. Zu einer Entscheidung hat das ganze jedoch nicht geführt, obwohl gestern Abend noch alle hellauf davon begeistert waren heute gemeinsam baden zu gehen und einen Grill, ausreichend Bier und Schlauchboote mitzunehmen. Dieser Enthusiasmus scheint über Nacht verloren gegangen zu sein oder zumindest das Vorhaben. Untergegangen in der Flut von Nachrichten und vergessen weil uns die zeitliche Flexibilität wichtiger ist als feste Entscheidungen zu treffen. Warum sollten wir uns auch festlegen? Immerhin leben wir im 21. Jahrhundert und es ist leichter mit jemandem am anderen Ende der Welt zu schreiben als vor die Tür zu gehen und mit dem eigenen Nachbarn zu reden.</p>
+<p style="color: #323333;">Der Fortschritt in der Technologie hat dazu geführt, dass unsere Kommunikation in Bezug auf die Freizeitplanung unnötig kompliziert geworden ist. Mit diesem Projekt habe ich die Wurzel allen Übels, das Smartphone, als Grundlage dafür genutzt eine Lösung für dieses Problem zu entwickeln. Entstanden ist dabei CLIQ. Ein Konzept für eine App bzw. Plattform, welche das Finden und Organisieren von Aktivitäten erleichtert und somit den Nutzern die Möglichkeit bietet mehr aus ihrer Freizeit zu machen. Hierbei liegt der entscheidende Punkt darauf eine Kommunikation zu ermöglichen, die Entscheidungen fördert und zu dem Ziel führt, dass eine Aktivität geplant und auch umgesetzt wird.</p>
+
+----
+
+Primary-email: nackt@matzemachtdesign.de
+
+----
+
+Primary-url: http://matzemachtdesign.de
+
+----
+
+Secondary-email: 
+
+----
+
+Secondary-url: 
+
+----
+
+Cover: cover.jpg

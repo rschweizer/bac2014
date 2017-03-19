@@ -1,0 +1,31 @@
+Title: Wechseljahre - Infografiken
+
+----
+
+Author: Alexander Stahl
+
+----
+
+Text: Der duale Studiengang Mediendesign an der Dualen Hochschule Baden-Württemberg in Ravensburg bietet eine Menge Facetten und Vielfalt in jeglicher Hinsicht. Diese Vielfalt spiegelt sich vor allem in den Studenten wieder, da viele von ihnen nicht aus der näheren Umgebung von Ravensburg, sondern aus ganz Deutschland kommen. Aber auch die Lebensweise und die Studieninhalte unterscheiden sich aufgrund des dualen Systems und der sehr praktisch orientierten Lernweise deutlich von anderen Studiengängen an vergleichbaren Hochschulen oder Universitäten. Diese Unterschiede und Eigenarten sollen in dieser Arbeit anhand von Daten des Jahrgangs WM11 ausgearbeitet und visualisiert werden und somit einen Einblick in das Leben eines dualen Studenten ermöglichen.
+<blockquote><em>„The main point is that data and visualization don`t always have to be just about the cold, </em><em>hard facts. Sometimes you`re not looking for analytical insight. Rather, sometimes you </em><em>can tell the story from an emotional point of view that encourages viewers to reflect on </em><em>the data.”</em></blockquote>
+&nbsp;
+
+----
+
+Primary-email: hallo@opti-mopti.de
+
+----
+
+Primary-url: www.opti-mopti.de
+
+----
+
+Secondary-email: 
+
+----
+
+Secondary-url:  
+
+----
+
+cover: titel.jpg 

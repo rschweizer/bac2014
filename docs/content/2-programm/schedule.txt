@@ -1,0 +1,68 @@
+Title: Programm
+
+----
+
+Headline-saturday: Samstag 13.09.
+
+----
+
+Headline-sunday: Sonntag 14.09.
+
+----
+
+Saturday:
+
+-
+  time: 10:00
+  title: Begrüßung
+  description: "durch Herrn Prof. Dr.–Ing. Herbert Dreher, Rektor der DHBW Ravensburg und Prof. Herbert Moser, Studiengangsleiter Mediendesign"
+-
+  time: 10:30
+  title: Vortrag
+  description: "von Benji Wiedemann, A+B Studio London: »Life begins outside the comfort zone«"
+-
+  time: 11:30
+  title: Einführung in die Ausstellung
+  description: "Prof. Dr. Markus Rathgeb und Prof. Klaus Birk, Studiengangsleitung Mediendesign"
+-
+  time: 11:45
+  title: Führung
+  description: "durch die Ausstellung"
+-
+  time: 14:00
+  title: Ravensburger Designpreis
+  description: "Begrüßung durch Herrn Oberbürgermeister Dr. Daniel Rapp, Stadt Ravensburg | Verleihung des Ravensburger Designpreises durch Herrn Direktor Markus Kistler, BW–Bank | Laudatio von Prof. Dr. Holger Lund"
+-
+  time: 15:00
+  title: Führung
+  description: "durch die Ausstellung"
+-
+  time: 17:00
+  title: Führung
+  description: "durch die Ausstellung"
+-
+  time: 18:00
+  title: Ateliersession
+  description: "mit Ephraim Ebertshäuser und Marina Gärtner"
+
+
+----
+
+Sunday:
+
+-
+  time: 11:00
+  title: Breakfast Talk
+  description: ""
+-
+  time: 12:30
+  title: Führung
+  description: "durch die Ausstellung"
+-
+  time: 15:30
+  title: Führung
+  description: "durch die Ausstellung"
+-
+  time: 18:00
+  title: Ende der Ausstellung
+  description: ""

@@ -1,0 +1,36 @@
+Title: Das kleine Ich und der große Herr Anders
+
+----
+
+Author: Katharina Fischer
+
+----
+
+Text: <p class="p1">Deutschland ist zurzeit das zweitbeliebteste Einwanderungsland. Zum einen liegt es an der 2008 ausgebrochenen Wirtschaftskrise. Zum anderen schlagen Politiker, wie auch die Bundeskanzlerin Angela Merkel, im Ausland schon lange die Werbetrommel, um fehlende Fachkräfte für Deutschland zu gewinnen.</p>
+<p class="p1">Das Problem ist hierbei aber oft nicht die Fachkräfte für Deutschland zu gewinnen, sondern sie zu überzeugen in Deutschland zu bleiben. Deutschland hat diverse Schwierigkeiten besonders in Bezug auf den Umgang mit Menschen mit Migrationshintergrund. Hauptsächlich findet eine einseitige Betrachtung statt. Das negative Bild über <i>den</i> <i>Migranten</i> dominiert weiterhin, obwohl sich das Einkommens- und Bildungsniveau von Migranten nach dem Sinus Milieu kaum zum deutschen unterscheidet. Weiter noch weisen Migranten eine vielfältigere Grundorientierungen auf. Meist wird im allgemeinen Diskurs oder in den Medien nur das Migrationsproblem als solches thematisiert und somit das gängige Klischee aufrechterhalten. Dies ist allerdings nur die halbe Wahrheit. Denn die meisten Problematiken sind nur auf eine Teilgruppe zuzuordnen. Es wird selten ein Perspektivwechsel vorgenommen und noch seltener finden positive Entwicklungen durch Vielfältigkeit in Deutschland Erwähnung. Migration ist eine sehr komplexe Thematik mit sowohl positiven als auch negativen Seiten.</p>
+<p class="p2">Aufgrund des Einwanderungsbooms ist in Deutschland eine genauere Betrachtung migrationsbezogener Themen gesellschaftlich, politisch und wirtschaftlich unumgänglich. Diese Bachelorarbeit leistet hierzu einen kleinen Beitrag.</p>
+
+<blockquote>
+<p class="p2"><i>„Kinder sind unsere Zukunft. Sie bestimmen den Weg, den unsere Gesellschaft künftig gehen wird.“ </i><em>(Bertelsmann Stiftung)</em></p>
+</blockquote>
+<p class="p1"><strong>Das kleine Ich und der große Herr Anders</strong> ist eine Reihe von Kurzgeschichten für Grundschulkinder mit und ohne Migrationshintergrund mit dem Ziel, das Bewusstsein für Interkulturalität zu schaffen und einen positiven Umgang miteinander zu fördern.</p>
+
+----
+
+Primary-email: 
+
+----
+
+Primary-url: 
+
+----
+
+Secondary-email: 
+
+----
+
+Secondary-url:  
+
+----
+
+cover: start.png 

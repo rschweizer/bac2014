@@ -1,0 +1,31 @@
+Title: MOMERIES
+
+----
+
+Author: Sebastian Bitsche
+
+----
+
+Text: Wer kennt das nicht? Noch während des Urlaubs werden Motive gesucht, variiert, umgangssprachlich Bildsequenzen „geschossen“, um sie später beispielsweise als Fotobuch, Video oder ähnliche aufzubereiten und präsentieren zu können. Die Gestalungsmöglichkeiten sind vielfältig, die Vorsätze groß. Zu Hause angekommen, erscheinen andere Dinge dringlicher. Allmählich kehrt der Alltag ein, die Erinnerungen verblassen. Die schönen Vorsätze werden stets auf später verschoben. Irgendwann sind sie vergessen. Wer sich der Arbeit doch annimmt, steht meist vor einer immensen Bilderflut, die es auszusortieren und zu ordnen gilt.
+
+Die MOMERIES-App widmet sich genau diesem Problem und soll Abhilfe schaffen. Verschiedenste Parameter werden von der App erfasst und mit den persönlichen Erinnerungen ohne großen Eigenaufwand in einer visuellen Form festgehalten und präsentierbar gestaltet. Die Nutzer sollen sich ihr persönliches Fotoalbum mit allen gesammelten Informationen anschauen können, um sich so facettenreich wie möglich an die festgehaltenen Momente zu erinnern.
+
+----
+
+Primary-email: sbitsche@artus.com
+
+----
+
+Primary-url: 
+
+----
+
+Secondary-email: 
+
+----
+
+Secondary-url:  
+
+----
+
+cover:  
