@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 ---
 
 # Impressum
@@ -7,8 +7,8 @@ layout: default
 ## Angaben gemäß § 5 TMG:
 
 Matthias Martin  
-Kirchstraße 25  
-88147 Achberg
+ Kirchstraße 25  
+ 88147 Achberg
 
 kontakt@matzemachtdesign.de
 
