@@ -3,8 +3,6 @@ image: /resources/images/nackt.jpg
 layout: home
 ---
 
-# Nackt in Ravensburg
-
 _„Es reicht nicht mehr aus, etwas nur noch zu zeigen. Die Verpackung ist die Lüge. Alles sieht heute gut aus.“_  
 – Otl&nbsp;Aicher, Gestalter (1991)
 
