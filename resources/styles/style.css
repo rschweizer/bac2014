@@ -719,6 +719,17 @@ main {
   margin-bottom: 25px;
   column-span: all;
 }
+
+.information h2,
+.information h3 {
+  padding: 0 25px;
+}
+
+.information h2:nth-of-type(3) {
+  -webkit-column-break-before: always;
+  break-before: column;
+}
+
 .information p + h2 {
   margin-top: 30px;
 }
