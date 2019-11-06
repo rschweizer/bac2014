@@ -3,6 +3,7 @@ author: Robert Schweizer
 email: mail@robertschweizer.me
 description: Die Bachelorausstellung des Mediendesign-Studiengangs der DHBW Ravensburg 2014
 
+permalink: /projekte/:title
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
