@@ -1,0 +1,107 @@
+jQuery(document).ready(function($) {
+	
+	
+	// Scrolled?
+	scrolled = 0;
+	$(window).scroll(function() {
+		if($(window).scrollTop() > 100){
+	         scrolled = 1;
+	    }
+	});
+	
+	//Does the user scrolled?
+	function areYouScrolling() {  
+	  	if (scrolled == 0) {   
+	    	$(".next").toggleClass("floating");
+	    	setTimeout(areYouScrolling, 1500);
+	    }
+	 }	
+	window.onload = function () { 
+		setTimeout(areYouScrolling, 2000);
+	}
+	 
+	//Smooth Scroll
+	$('a[href^=#]').bind("click", function(scroller) {
+		scroller.preventDefault();
+		var ziel = $(this).attr("href");
+		$('html,body').animate({
+			scrollTop:$(ziel).offset().top
+		}, 800);
+	});
+	
+	//Menu Button
+	$(".icon-menu").click(function () {
+	    if ($(this).hasClass("closed") || $(this).hasClass("opened")) {
+	    	$(this).toggleClass("opened closed");
+	    } else {
+		    $(this).toggleClass("opened");
+		}
+	});
+		
+	//VERLAUF
+	var colors = new Array(
+	  [251,215,214],
+	  [222,200,81],
+	  [251,246,167],
+	  [255,128,0],
+	  [237,107,117],
+	  [255,35,98]);
+	
+	var step = 0;
+	//color table indices for: 
+	// current color left
+	// next color left
+	// current color right
+	// next color right
+	var colorIndices = [0,1,2,3];
+	
+	//transition speed
+	var gradientSpeed = 0.004;
+	
+	function updateGradient()
+	{
+	var c0_0 = colors[colorIndices[0]];
+	var c0_1 = colors[colorIndices[1]];
+	var c1_0 = colors[colorIndices[2]];
+	var c1_1 = colors[colorIndices[3]];
+	
+	var istep = 1 - step;
+	var r1 = Math.round(istep * c0_0[0] + step * c0_1[0]);
+	var g1 = Math.round(istep * c0_0[1] + step * c0_1[1]);
+	var b1 = Math.round(istep * c0_0[2] + step * c0_1[2]);
+	var color1 = "#"+((r1 << 16) | (g1 << 8) | b1).toString(16);
+	
+	var r2 = Math.round(istep * c1_0[0] + step * c1_1[0]);
+	var g2 = Math.round(istep * c1_0[1] + step * c1_1[1]);
+	var b2 = Math.round(istep * c1_0[2] + step * c1_1[2]);
+	var color2 = "#"+((r2 << 16) | (g2 << 8) | b2).toString(16);
+	
+	 $('#gradient').css({
+	   background: "-webkit-gradient(linear, left top, right top, from("+color1+"), to("+color2+"))"}).css({
+	    background: "-moz-linear-gradient(left, "+color1+" 0%, "+color2+" 100%)"});
+	  
+	  step += gradientSpeed;
+	  if ( step >= 1 )
+	  {
+	    step %= 1;
+	    colorIndices[0] = colorIndices[1];
+	    colorIndices[2] = colorIndices[3];
+	    
+	    //pick two new target color indices
+	    //do not pick the same as the current one
+	    colorIndices[1] = ( colorIndices[1] + Math.floor( 1 + Math.random() * (colors.length - 1))) % colors.length;
+	    colorIndices[3] = ( colorIndices[3] + Math.floor( 1 + Math.random() * (colors.length - 1))) % colors.length;
+	    
+	  }
+	}
+	
+	setInterval(updateGradient,10);
+	
+	//$('.loading').delay(1500).fadeOut(500);
+
+	
+    $('.map').on('mouseenter click', function () {
+        $('.map_overlay').removeClass('blocked');
+    });
+		
+});

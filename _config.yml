@@ -1,0 +1,13 @@
+title: Nackt in Ravensburg
+author: Robert Schweizer
+email: mail@robertschweizer.me
+description: Die Bachelorausstellung des Mediendesign-Studiengangs der DHBW Ravensburg 2014
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+sass:
+  style: compressed
+
+timezone: UTC

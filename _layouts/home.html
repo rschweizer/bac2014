@@ -1,0 +1,18 @@
+---
+layout: default
+---
+
+<section class="information clearfix" id="overview">
+  {{ content }}
+</section>
+
+<section class="overview clearfix" id="">
+  {% for post in site.posts %}
+  <div class="tile large-3 medium-4 small-6 tiny-12">
+    <a href="{{ post.url }}" title="{{ post.title }}" class="link"></a>
+    <img src="{{ post.image }}" alt="{{ post.title }}" />
+    <p class="author">{{ post.author }}</p>
+    <p class="title">{{ post.title }}</p>
+  </div>
+  {%- endfor -%}
+</section>

@@ -1,0 +1,11 @@
+<nav class="nav projectNav">
+  <ul>
+    {% if page.previous.url %}
+      <li><a href="{{ page.previous.url }}" title="Vorheriges Projekt"><span class="icon-arrow-left icon"></span><span class="text">vorheriges</span></a></li>
+    {% endif %}
+    <li><a href="{{ site.url }}#overview" title="Alle Projekte"><span class="text">Alle Projekte</span><span class="icon-layout icon"></span></a></li>
+    {% if page.next.url %}
+      <li><a href="{{ page.next.url }}" title="Nächstes Projekt"><span class="icon-arrow-left icon"></span><span class="text">nächstes</span></a></li>
+    {% endif %}
+  </ul>
+</nav>

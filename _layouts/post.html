@@ -1,0 +1,31 @@
+---
+layout: default
+---
+
+<section class="singleview clearfix">
+  <div class="info">
+    <h1>{{ page.author }}</h1>
+    <h2>{{ page.title }}</h2>
+    <span class="desc">Titel der Arbeit</span>
+    
+    {{ content }}
+    <span class="desc">Infos zur Arbeit</span>
+    
+    {%- if page.email.primary -%} <a href="mailto:{{ page.email.primary }}" title="Email schreiben">{{ page.email.primary }}</a><br/> {%- endif -%}
+    {%- if page.link.primary -%} <a href="{{ page.link.primary }}" title="Website besuchen">{{ page.link.primary }}</a><br/> {%- endif -%}
+    {%- if page.email.secondary -%} <a href="mailto:{{ page.email.secondary }}" title="Email schreiben">{{ page.email.secondary }}</a><br/> {%- endif -%}
+    {%- if page.link.secondary -%} <a href="{{ page.link.secondary }}" title="Website besuchen">{{ page.link.secondary }}</a><br/> {%- endif -%}
+    <span class="desc">Kontakt</span>
+  </div>
+
+  {% if page.image %}
+    <div class="pics">
+      <a href="{{ page.image | relative_url }}" data-lightbox="{{ page.title }}"><img src="{{ page.image | relative_url }}" alt="{{ page.title }}"/></a>
+      {%- for image in page.images -%}
+        <a href="{{ image | relative_url }}" data-lightbox="{{ page.title }}"><img src="{{ image | relative_url }}" alt="{{ page.title }}"/></a>
+      {%- endfor -%}
+    </div>  
+  {%- endif -%}
+
+  <div class="clearfix"></div>
+</section>
