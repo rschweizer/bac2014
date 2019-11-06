@@ -2,8 +2,8 @@
 author: Lia Talbot
 email:
   primary: liatalbot@web.de
-image: /assets/album-der-erinnerungen/DSC_0428-270x300.jpg
-images: 
+image: /assets/album-der-erinnerungen/dsc_0428-270x300.jpg
+images:
   - /assets/album-der-erinnerungen/dsc_0428.jpg
   - /assets/album-der-erinnerungen/dsc_0432.jpg
   - /assets/album-der-erinnerungen/dsc_0435.jpg
