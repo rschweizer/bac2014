@@ -18,9 +18,8 @@ layout: default
     <span class="desc">Kontakt</span>
   </div>
 
-  {% if page.image %}
+  {% if page.images %}
     <div class="pics">
-      <a href="{{ page.image | relative_url }}" data-lightbox="{{ page.title }}"><img src="{{ page.image | relative_url }}" alt="{{ page.title }}"/></a>
       {%- for image in page.images -%}
         <a href="{{ image | relative_url }}" data-lightbox="{{ page.title }}"><img src="{{ image | relative_url }}" alt="{{ page.title }}"/></a>
       {%- endfor -%}
