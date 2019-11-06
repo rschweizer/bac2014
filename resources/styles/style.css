@@ -409,6 +409,7 @@ main {
 }
 .intro + section {
   margin-top: 25px;
+  padding-top: 50px;
 }
 
 .nav {
@@ -515,6 +516,7 @@ main {
   position: relative;
   background: #000;
   overflow: hidden;
+  height: 300px;
 }
 .overview .tile .link {
   position: absolute;
