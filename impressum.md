@@ -6,11 +6,11 @@ layout: page
 
 ## Angaben gemäß § 5 TMG:
 
-Matthias Martin  
- Kirchstraße 25  
- 88147 Achberg
+Robert Schweizer  
+Gottschalkstr. 15  
+81825 München
 
-kontakt@matzemachtdesign.de
+mail@robertschweizer.me
 
 ## Haftungsausschluss
 
